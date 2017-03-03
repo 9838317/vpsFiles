@@ -1,0 +1,8 @@
+{
+"server":"104.224.138.108",
+"server_port":5001,
+"local_port":1080,
+"password":"lzflzflzf",
+"timeout":600,
+"method":"aes-256-cfb"
+}
